@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-post-js","path":"/blog//blog/hello-new-site","result":{"data":{"markdownRemark":{"html":"<h1>Hello New Site!</h1>\n<p>This is my fifth blog post.</p>","frontmatter":{"date":"May 15, 2020","title":"Hello New Site"}}},"pageContext":{"slug":"/blog/hello-new-site"}}}

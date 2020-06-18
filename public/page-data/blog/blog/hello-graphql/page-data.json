@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-post-js","path":"/blog//blog/hello-graphql","result":{"data":{"markdownRemark":{"html":"<h1>Hello GraphQL!</h1>\n<p>This is my fourth blog post.</p>","frontmatter":{"date":"May 14, 2020","title":"Hello GraphQL"}}},"pageContext":{"slug":"/blog/hello-graphql"}}}
